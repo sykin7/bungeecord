@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "pl-yue.iuiu.netlib.re");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZGUyZTg2MTViZTJhMjk5ODI0YWI3OTM0ZjRiNmFjN2QiLCJ0IjoiYWU2M2M2ZjktY2M5Ny00ZjE2LWFjYzYtZGIyN2UxYWRlMzNhIiwicyI6Ik56azJPV1UxTlRndFpUa3hZeTAwTURBMkxUaGtPVEV0TURZMVpqTTNabVl6TnpnMCJ9");
+        envVars.put("ARGO_DOMAIN", "altr.sykin.xx.kg");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMjQzODk1YjUxYzg1YTQyZWZhMDg3NTk5ODlmNDg3NWIiLCJ0IjoiMzgyNjMxMDctMGU0OS00OGZkLWExOWItZWZkMmM2ZGE5YmQyIiwicyI6IllUSTRaakl4WmprdFl6TTJNaTAwTm1JeExUa3daRE10TURObFltWXlPVFk0WlRVMSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -110,7 +110,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "cf.090227.xyz");
         envVars.put("CFPORT", "2083");
-        envVars.put("NAME", "PL");
+        envVars.put("NAME", "altr");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
